@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Animal-Show/static/js/main.a3d26395.js",
+    "main.js": "/Animal-Show/static/js/main.6691c6a8.js",
     "index.html": "/Animal-Show/index.html",
-    "main.a3d26395.js.map": "/Animal-Show/static/js/main.a3d26395.js.map"
+    "main.6691c6a8.js.map": "/Animal-Show/static/js/main.6691c6a8.js.map"
   },
   "entrypoints": [
-    "static/js/main.a3d26395.js"
+    "static/js/main.6691c6a8.js"
   ]
 }
